@@ -561,8 +561,8 @@ Isso e tudo.
 
 ------------------------------------------------------------------------------------------------------------
 Este tutorial foi baseado no original do @remiq
-confira como ele criou utilizando o Doctrine
-[Read more words!](remiq/apigility-zfc-rbac-recipe)
+
+[Veja o tutorial com Doctrine!](remiq/apigility-zfc-rbac-recipe)
 
 Sinta-se livre para aprimorar e contribuir com Rbac Apigility
 
